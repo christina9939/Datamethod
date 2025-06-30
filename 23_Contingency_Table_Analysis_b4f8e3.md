@@ -1,0 +1,9 @@
+# 16. Contingency Table Analysis
+
+Contingency Table Analysis is a statistical method used to study the relationship between two or more categorical variables. It organizes data into a two-dimensional table, called a contingency table or cross table, where rows represent the levels of one categorical variable and columns represent the levels of another categorical variable. Each cell in the contingency table represents the frequency or percentage of two categorical variables at a specific level combination.
+The main purpose of contingency table analysis is to explore and describe the correlation or association between two or more categorical variables. It can help us answer questions such as:
+• Is there an association or correlation between two categorical variables?
+• What is the degree of association between different levels of categorical variables?
+• What is the effect of the level of one categorical variable on the level of another categorical variable?
+In contingency table analysis, commonly used statistical methods include the Chi-square test, which is used to test whether there is a significant association between two categorical variables; residual analysis, which is used to determine the degree of difference between the observed frequency and the expected frequency of each cell in the contingency table; and effect size indicators in the contingency table, such as Cramer's V, which are used to describe the strength of the association between two categorical variables.
+Contingency table analysis is often used in social sciences, medicine, market research and other fields to help researchers understand and explain the relationship between different categorical variables, so as to conduct more in-depth data interpretation and decision making.

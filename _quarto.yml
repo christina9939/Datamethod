@@ -1,0 +1,55 @@
+project:
+  type: website
+
+website:
+  title: "Data Analysis Methods"
+  navbar:
+    left:
+      - text: "Parametric Tests"
+        href: 01_Parametric_Tests_15fbeb.md
+      - text: "Non-Parametric Tests"
+        href: 02_Non-Parametric_Tests_ad9d60.md
+      - text: "Tests for Categorical Data"
+        href: 03_Tests_for_Categorical_Data_ea67d9.md
+      - text: "Correlation and Association Tests"
+        href: 04_Correlation_and_Association_Tests_2d13ab.md
+      - text: "Regression Analysis"
+        href: 05_Regression_Analysis_41c259.md
+      - text: "Tests for Variance"
+        href: 06_Tests_for_Variance_9b50c3.md
+      - text: "Advanced and Specialized Tests"
+        href: 07_Advanced_and_Specialized_Tests_c4b6c8.md
+      - text: "Descriptive Statistics"
+        href: 08_Descriptive_Statistics_a713e0.md
+      - text: "Exploratory Data Analysis (EDA)"
+        href: 09_Exploratory_Data_Analysis_(EDA)_d7ace2.md
+      - text: "Hypothesis Testing and Inferential Statistics"
+        href: 10_Hypothesis_Testing_and_Inferential_Statistics_773093.md
+      - text: "Regression analysis"
+        href: 11_Regression_analysis_bc8744.md
+      - text: "Cluster analysis"
+        href: 12_Cluster_analysis_055ef5.md
+      - text: "Correlation analysis"
+        href: 13_Correlation_analysis_eab41c.md
+      - text: "Time series analysis"
+        href: 14_Time_series_analysis_b80f3b.md
+      - text: "Spatial Data Analysis"
+        href: 15_Spatial_Data_Analysis_f87cae.md
+      - text: "Survival analysis"
+        href: 16_Survival_analysis_489c1e.md
+      - text: "Reliability Analysis"
+        href: 17_Reliability_Analysis_ec08fa.md
+      - text: "Factor Analysis"
+        href: 18_Factor_Analysis_cff92b.md
+      - text: "Principal Component Analysis"
+        href: 19_Principal_Component_Analysis_c8542e.md
+      - text: "Decision Tree Analysis"
+        href: 20_Decision_Tree_Analysis_05752b.md
+      - text: "ROC analysis"
+        href: 21_ROC_analysis_d2db59.md
+      - text: "Discriminant Analysis"
+        href: 22_Discriminant_Analysis_0516d2.md
+      - text: "Contingency Table Analysis"
+        href: 23_Contingency_Table_Analysis_b4f8e3.md
+      - text: "Correspondence Analysis"
+        href: 24_Correspondence_Analysis_8a42e2.md

@@ -1,0 +1,9 @@
+# 13. Decision Tree Analysis
+
+Decision tree analysis is a tree-structured machine learning algorithm used to build classification or regression models. In a decision tree, each internal node represents a feature/attribute, each branch represents a possible value of the feature, and each leaf node represents a category label or numerical output.
+The main steps of decision tree analysis include:
+• Feature selection: Select the best features from all possible features to split the data set into different subsets. Commonly used feature selection methods include information gain, Gini index, etc.
+• Tree construction: Recursively divide the data set into subsets until the data in the subsets belong to the same category or a predefined stopping condition is reached. The construction process creates nodes by selecting the best features and splits at each node until the stopping condition is met.
+• Pruning: To prevent overfitting, the generated decision tree can be pruned to remove some unnecessary nodes and branches, thereby improving the generalization ability of the model.
+• Prediction: Use the generated decision tree to classify or regress new samples. According to the feature value of the sample, it goes down along the branch of the tree step by step until it reaches the leaf node, and then the category or value to which the leaf node belongs is used as the prediction result.
+Decision tree analysis is easy to understand and highly interpretable. It can handle classification and regression problems and has low data preparation requirements. It is widely used in risk assessment, disease diagnosis, product recommendation and other tasks in the fields of finance, medicine, and industry.

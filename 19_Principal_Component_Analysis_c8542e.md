@@ -1,0 +1,10 @@
+# 12. Principal Component Analysis
+
+Principal Component Analysis (PCA) is a commonly used multivariate data dimensionality reduction technique that aims to convert high-dimensional data into low-dimensional data while retaining the information of the original data as much as possible. It achieves data dimensionality reduction by finding the principal components in the data and projecting the data into a new coordinate system.
+The main steps of principal component analysis include:
+• Data standardization: Standardize the original data so that each variable has the same scale to avoid inaccurate principal components due to scale differences.
+• Calculate the covariance matrix: Calculate the covariance matrix between the standardized variables, which reflects the linear relationship between the variables.
+• Eigenvalue decomposition: Perform eigenvalue decomposition on the covariance matrix to obtain the eigenvalue and the corresponding eigenvector. The eigenvector is the direction of the principal component, and the eigenvalue indicates the variance of the data in the direction of the corresponding principal component.
+• Select principal components: Select the number of principal components to be retained based on the size of the eigenvalue. Usually, the first few principal components with larger eigenvalues ​​are selected to retain most of the variance information of the data.
+• Calculate the principal component score: Project the original data onto the selected principal component to obtain the score of each sample on the principal component as the data after dimensionality reduction.
+Principal component analysis can be used for tasks such as data visualization, feature extraction, data compression, and removal of collinearity. It is widely used in many fields, such as finance, biology, medicine, and social sciences.

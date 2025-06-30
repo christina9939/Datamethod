@@ -1,0 +1,10 @@
+# 17. Correspondence Analysis
+
+Correspondence Analysis is a multivariate statistical technique used to explore the relationship between categorical data. It is mainly used to analyze the frequency distribution or mutual correlation between two or more categorical variables. The main goal of correspondence analysis is to show the relationship between categorical variables on a two-dimensional graph for easy visualization and interpretation.
+The general steps of correspondence analysis include:
+• Construct a frequency table: First, construct a frequency table based on the object or problem of the study to record the frequency or proportion of different categorical variables.
+• Calculate expected frequency: Calculate expected frequency according to frequency table, that is, the expected frequency of each cell under the assumption that each categorical variable is independent.
+• Calculate residual: Compare observed frequency with expected frequency and calculate residual to measure the deviation between observed frequency and expected frequency.
+• Perform correspondence analysis: Through mathematical methods such as singular value decomposition of residual, multidimensional data is mapped to low-dimensional space to obtain the relationship between categorical variables.
+The results of correspondence analysis are usually presented in the form of correspondence plot, in which the levels or categories of different categorical variables are represented by points on a two-dimensional plane, and the position and relative position of the points reflect the relationship between them.
+Correspondence analysis has a wide range of applications in market research, social science surveys, ecology, biostatistics and other fields. It can help researchers discover the correlation between variables, identify patterns and structures in data, and provide useful references for subsequent analysis and interpretation.

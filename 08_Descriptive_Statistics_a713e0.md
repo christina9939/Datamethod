@@ -50,8 +50,12 @@ _Answers: “Where is the data concentrated?”_
 
 
 - **Mode**  
-  Most frequent value.  
-  
+  Most frequent value.
+
+- **Quartiles**  
+Q1,Q3,ICR (25th and 75th percentiles / Internal Control Ratio)
+Whiskers (range excluding outliers)
+, Outliers 
 
 ---
 

@@ -65,8 +65,7 @@ _Answers: “How consistent is the data?”_
 - **Range** = Max − Min  
 - **Variance**: Average squared deviation from the mean.  
 - **Standard Deviation (SD)**: Square root of variance.  
-  **Example**: SD in finance measures stock price volatility.
-
+ 
 
 ---
 

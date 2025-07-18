@@ -98,11 +98,11 @@ Visual tools for quick insights:
 ---
 
 
-## ✅ Checks:</span>
-- ✔ **Visualize before concluding** – charts reveal hidden trends  
-- ✔ **Check outliers** – they distort averages  
-- ✔ Use **Median** for skewed data  
-- ✔ Combine multiple measures for full insights  
+## <span style="color:#196F3D;">✔ Checks:</span>
+- **Visualize before concluding** – charts reveal hidden trends  
+-  **Check outliers** – they distort averages  
+- Use **Median** for skewed data  
+- Combine multiple measures for full insights  
 
 
 ---

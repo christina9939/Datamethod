@@ -53,9 +53,9 @@ _Answers: “Where is the data concentrated?”_
   Most frequent value.
 
 - **Quartiles**  
-Q1,Q3,ICR (25th and 75th percentiles / Internal Control Ratio)
-Whiskers (range excluding outliers)
-, Outliers 
+Q1,Q3,ICR (25th and 75th percentiles / Internal Control Ratio),IQR (Q3 − Q1: This measures the spread of the middle 50% of the data
+Whiskers [range excluding outliers]),
+, Outliers (values that fall below Q1 − 1.5×IQR or above Q3 + 1.5×IQR are often considered outliers)
 
 ---
 

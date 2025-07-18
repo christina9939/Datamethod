@@ -27,9 +27,9 @@ It summarizes data in the following aspects:
 
 ## <span style="color:#1A5276;">📌 Why Is Descriptive Statistics Important?</span>
 -  <span style="color:#148F77;">Helps identify patterns and anomalies</span>  
--  <span style="color:#7D3C98;">Simplifies large datasets into summaries</span>  
--  <span style="color:#CA6F1E;">Provides a foundation for decision-making</span>  
--  <span style="color:#B03A2E;">Aids in data cleaning and quality checks</span>  
+-  <span style="color:#148F77;">Simplifies large datasets into summaries</span>  
+-  <span style="color:#148F77;">Provides a foundation for decision-making</span>  
+-  <span style="color:#148F77;">Aids in data cleaning and quality checks</span>  
 
 
 ---
@@ -41,7 +41,7 @@ It summarizes data in the following aspects:
 ### **1. Measures of Central Tendency**
 _Answers: “Where is the data concentrated?”_
 - **Mean (Average)**  
-  Formula:   <span style="color:#2874A6;">\
+  Formula:   <span style="color:#2874A6;">
   {Mean} = {Sum of all observations}/{Number of observations}
    
 
@@ -98,7 +98,7 @@ Visual tools for quick insights:
 ---
 
 
-## ✅ Checks
+## ✅ Checks:</span>
 - ✔ **Visualize before concluding** – charts reveal hidden trends  
 - ✔ **Check outliers** – they distort averages  
 - ✔ Use **Median** for skewed data  
